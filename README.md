@@ -1,2 +1,8 @@
-# oop_group3_1_1_24_N02
-ăn . . ăn
+# THIS BRANCH IS FOR EXERCISES
+
+## FOLLOW "week$/src" TO OPEN THE EXERCISES !
+## FOLLOW "week$/README.md" TO OPEN THE DISCUSS OF EXERCISES !
+
+*"$" is number of week*
+
+# THANK YOU
