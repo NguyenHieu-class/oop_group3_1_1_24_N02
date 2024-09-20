@@ -1,5 +1,6 @@
 package com.execise.app;
 import com.execise.app.*;
+import java.util.*;
 
 public class App {
     public static void main(String[] args) {
@@ -31,5 +32,12 @@ public class App {
         //Recursion.java
         Recursion r = new Recursion();
         System.out.println(r.Recursion(5));
+
+        //MyClass.java
+        MyClass mc = new MyClass();
+        
+        //InterfacesExercise1.java
+        InterfacesExercise1 ie1 = new InterfacesExercise1();
+        
     }
 }
