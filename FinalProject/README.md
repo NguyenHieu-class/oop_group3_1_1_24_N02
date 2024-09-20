@@ -7,3 +7,6 @@
 
 ### Lưu đồ thuật toán - Xoá file
 ![Lưu đồ thuật toán - Xoá file](https://github.com/NguyenHieu-class/oop_group3_1_1_24_N02/blob/main/FinalProject/L%C6%B0u%20%C4%91%E1%BB%93%20thu%E1%BA%ADt%20to%C3%A1n/xo%C3%A1%20file.png)
+
+### Lưu đồ thuật toán - Đổi tên file
+![Lưu đồ thuật toán - Đổi tên file](https://github.com/NguyenHieu-class/oop_group3_1_1_24_N02/blob/018929f0c648fe2e77490d3617594ab2f2fa5e57/FinalProject/L%C6%B0u%20%C4%91%E1%BB%93%20thu%E1%BA%ADt%20to%C3%A1n/%C4%91%E1%BB%95i%20t%C3%AAn.png)
