@@ -27,7 +27,7 @@ Dự án này là một phần mềm quản lý file và folder trên máy tính
 ![Lưu đồ thuật toán - Đổi tên file](https://github.com/NguyenHieu-class/oop_group3_1_1_24_N02/blob/96f97e8e5cea45c67294e7b1351e054106518fbf/FinalProject/L%C6%B0u%20%C4%91%E1%BB%93%20thu%E1%BA%ADt%20to%C3%A1n/%C4%91%E1%BB%95i%20t%C3%AAn.png)
 
 ## Giao diện đầu tiên của dự án
-![firstScreen]([./img/firstScreen.png](https://github.com/NguyenHieu-class/oop_group3_1_1_24_N02/blob/4e84083f400f44f330a7443ea07cceec7a981660/FinalProject/Giao%20di%E1%BB%87n%20%C4%91%E1%BA%A7u%20ti%C3%AAn.png))
+![firstScreen](https://github.com/NguyenHieu-class/oop_group3_1_1_24_N02/blob/dc31fe676d8533adc2936a3ef5d87c785ad2afb2/FinalProject/Giao%20di%E1%BB%87n%20%C4%91%E1%BA%A7u%20ti%C3%AAn.png)
 
 ## GitHub Pages Dự Án
 [Truy cập dự án tại đây](https://github.com/NguyenHieu-class/oop_group3_1_1_24_N02.git)
